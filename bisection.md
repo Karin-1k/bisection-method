@@ -1,0 +1,1 @@
+[goole sheet link](https://github.com/Karin-1k/bisection-method.git)
